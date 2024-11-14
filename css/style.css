@@ -50,3 +50,21 @@ footer p {
 .grigio1 {
     color: grey;
 }
+
+.highlight {
+    background-color: yellow;
+}
+
+table th {
+    background-color: rgb(50, 138, 196);
+    text-align: left;
+    color: white;
+}
+
+table tbody tr:nth-child(2n+1) {
+    background-color: rgba(192, 203, 220, 0.967);
+}
+
+table tbody tr:nth-child(2n) {
+    background-color: white;
+}
