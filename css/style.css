@@ -20,19 +20,23 @@ footer p {
     text-align: center;
     padding: 15px 0;
 }
+
 #terzo {
     font-size: 16px;
-    margin-bottom: 5px; /* Spazio sotto il titolo */
+    margin-bottom: 5px;
+    /* Spazio sotto il titolo */
 }
 
 .inline {
-    display: inline; /* Mantiene "Scritto da The Booleaner" sulla stessa riga */
+    display: inline;
+    /* Mantiene "Scritto da The Booleaner" sulla stessa riga */
     margin: 0;
     padding: 0;
 }
 
 .online {
-    margin-top: 2px; /* Riduce lo spazio tra "The Booleaner" e la data */
+    margin-top: 2px;
+    /* Riduce lo spazio tra "The Booleaner" e la data */
 }
 
 .grigio {
@@ -46,4 +50,3 @@ footer p {
 .grigio1 {
     color: grey;
 }
-    
